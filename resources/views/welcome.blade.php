@@ -37,7 +37,7 @@
             @endif
 
             <div>
-                <h1>WELCOME TO TROUPFOREX</h1>
+                <h1>WELCOME TO TROUPFOREX LETs see how it goes</h1>
             </div>
         </div>
     </body>
